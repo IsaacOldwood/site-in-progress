@@ -45,8 +45,13 @@ p {
         padding: 5px;
     }
     
-    .column {
+    .right-column {
         order: 2;
+        padding: 5px;
+    }
+
+    .left-column {
+        order: 3;
         padding: 5px;
     }
 }
